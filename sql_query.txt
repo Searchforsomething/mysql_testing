@@ -1,0 +1,12 @@
+SELECT col1 FROM random_numbers WHERE col2 LIKE 'tazpg';
+SELECT col2, col3, col4 FROM random_numbers WHERE col4 LIKE 'gkuwv';
+SELECT col1, col2, col3, col4, col5 FROM random_numbers WHERE col1 LIKE 'cckqo';
+SELECT col3, col4 FROM random_numbers WHERE col2 LIKE 'btwja' AND col5 LIKE 'bbmmu';
+SELECT col1, col2, col3, col5 FROM random_numbers WHERE col1 LIKE 'lqhya' AND col2 LIKE 'cesvf';
+SELECT col1 FROM random_numbers WHERE col1 LIKE 'wnapq' OR col2 LIKE 'nwimp';
+SELECT col2, col4, col5 FROM random_numbers WHERE col2 LIKE 'tacjl' OR col3 LIKE 'katva';
+SELECT col1, col2, col3, col4 FROM random_numbers WHERE col1 LIKE 'shuai' OR col2 LIKE 'tacjl';
+SELECT col2, col3 FROM random_numbers WHERE col1 LIKE 'cfutn' AND col4 LIKE 'ohjzm' AND col5 LIKE 'krkkt';
+SELECT col3, col4, col5 FROM random_numbers WHERE col3 LIKE 'skkwu' OR col1 LIKE 'rywwb' OR col4 LIKE 'oilzf';
+SELECT col1, col3, col5 FROM random_numbers WHERE col1 LIKE 'cilye' AND col2 LIKE 'pgwid' OR col5 LIKE 'pxzfo';
+SELECT col2, col5 FROM random_numbers WHERE col3 LIKE 'smbgh' OR col4 LIKE 'pjzye' AND col5 LIKE 'dxvts';
